@@ -1,7 +1,7 @@
 
 # Dualliste C2: Tactical Security Orchestration Core
 
-<img style="padding-top: 0;" width="130" align="right" src="shared/Dualliste.png"  alt="Dualliste C2 Logo" >
+<img style="padding-top: 0;" width="130" align="right" src="https://raw.githubusercontent.com/the-abra/Depo1/refs/heads/main/Dualliste.png"  alt="Dualliste C2 Logo" >
 
 Dualliste C2 is a high-performance, unified command-and-control (C2) workspace built for cybersecurity profiling, vulnerability auditing, and network topology discovery. Rather than juggling dozens of terminal windows, Dualliste coordinates security scanners in the background, parses raw outputs, maps assets on an interactive graph, and generates actionable, heuristic-based recomendations.
 
